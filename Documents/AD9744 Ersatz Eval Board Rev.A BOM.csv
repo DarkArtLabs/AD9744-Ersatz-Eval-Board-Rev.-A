@@ -1,6 +1,6 @@
-﻿Item #,Qty,Ref Des,Manufacturer,Manufacturer Part Number,Description,Package,Type,Location
+﻿Item #,Qty,Ref Des,Manufacturer,Manufacturer Part Number,Description,Package,Type,Location,Note
 1,1,U1,Analog Devices,AD9744ARUZRL7 ,14 Bit DAC; 210 MSPS,TSSOP-28,SMT,Top
-2,1,TR1,Mini Circuits,T1-6T+,Balun; 1:1,W38,SMT,Top
+2,1,TR1,Mini Circuits,T1-6T+,Balun; 1:1,W38,SMT,Top, Must trim legs
 3,1,J1,Adam Tech,PH2-18-UA ,Pin Header; 2.54mm pitch; 2x9; Male,,Thru-Hole,Top
 4,1,JP1,Adam Tech,PH1-03-UA ,Pin Header; 2.54mm pitch; 1x3; Male,,Thru-Hole,Top
 5,1,JP3,Adam Tech,PH1-02-UA ,Pin Header; 2.54mm pitch; 1x2; Male,,Thru-Hole,Top
