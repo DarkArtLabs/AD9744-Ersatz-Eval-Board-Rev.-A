@@ -11,8 +11,8 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - 2's complement or unisigned binary DAC word selectable using jumper
   - External clock input
   - 50 Ohm output impedance
-  - Mounting holes for M2 hardware or standoffs
   - Test points on DAC output before balun
+  - Mounting holes for M2 hardware or standoffs
 
 # Changes From Rev. -
 The following changes from Rev. - have been implemented.
