@@ -8,7 +8,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
 
 # Features
   - Power board through pin header, terminal block, or separately power analog and digital sections
-  - 2's complement or unisigned binary DAC word selectable using jumper
+  - 2's complement or unsigned binary DAC word selectable using jumper
   - External clock input
   - 50 Ohm output impedance
   - Test points on DAC output before balun
@@ -22,12 +22,12 @@ This project includes everything needed to make an ersatz evaluation board.
 A PDF of the schematic is included in Documents. It defines all electrical connections, component values, and components tolerances. DNP signifies that no part is to be placed.
 
 ## Bill of Materials (BOM)
-A BOM is included in Documents. It contains manufacturer part numbers and quantites for every component. It also contains Mouser part numbers for easy cross reference. The BOM may be uploaded to the Mouser website and a shopping cart with correct quantities will automatically be generated. Parts may be substituted as long as they meet the minimum tolerances and footprint dimensions. 
+A BOM is included in Documents. It contains manufacturer part numbers and quantities for every component. It also contains Mouser part numbers for easy cross reference. The BOM may be uploaded to the Mouser website and a shopping cart with correct quantities will automatically be generated. Parts may be substituted as long as they meet the minimum tolerances and footprint dimensions. 
 
 To match blue and green PCBs, the BOM contains options for green and blue terminal blocks and LEDs. The value of resistor R8 will have to change depending on the choice of LED color.
 
 ## Gerbers, Drill File, Drill Map
-A set gerbers, a drill file, and a drill map are included in the Gerbers directory. The files have been generated according to the specifications that JLCPCB requires, but they will likely work at other fabrictors such as PCBWay or OSHPARK. These files may be compressed into a ZIP file and uploaded to the PCB fabricator of your choice.
+A set gerbers, a drill file, and a drill map are included in the Gerbers directory. The files have been generated according to the specifications that JLCPCB requires, but they will likely work at other fabricators such as PCBWay or OSHPARK. These files may be compressed into a ZIP file and uploaded to the PCB fabricator of your choice.
 
 ## Assembly & User Guide (TBD)
 A combined assembly and user guide is included in the Documents directory. 
@@ -49,4 +49,4 @@ The following changes from Rev. - have been implemented.
   - Position of external clock port J3 changed and terminating resistor R1 moved closer to J3
   - Updated BOM to include blue terminal block option for use with blue PCB
   - Minor changes to trace routing
-  - Minor changes to skilscreen
+  - Minor changes to silkscreen
