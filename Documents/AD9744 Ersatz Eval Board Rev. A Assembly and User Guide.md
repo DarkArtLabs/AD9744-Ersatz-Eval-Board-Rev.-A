@@ -43,3 +43,8 @@ The general assembly process will be to install the DAC, next the small passives
   13. Solder in J1 (2x9 pin header), JP1 (3 pin), J4 (terminal block), and JP3 (2 pin)
 
   14. Solder in J2 and J3 (SMA connectors)
+
+  15. Install M2 size stand-offs in the corner mounting holes (Optional)
+
+## User Guide
+
