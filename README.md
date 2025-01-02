@@ -20,7 +20,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
 A PDF of the schematic is included in Documents. It defines all electrical connections, component values, and components tolerances. DNP signifies that no part is to be placed.
 
 ## Bill of Materials (BOM)
-A BOM is in included in Documents. It contains manufacturer part numbers and quantites for every component. It also contains Mouser part numbers for easy cross reference. The BOM may be uploaded to the Mouser website and a shopping cart with correct quantities will automatically be generated. Parts may be substituted as long as they meet the minimum tolerances and footprint dimensions. 
+A BOM is included in Documents. It contains manufacturer part numbers and quantites for every component. It also contains Mouser part numbers for easy cross reference. The BOM may be uploaded to the Mouser website and a shopping cart with correct quantities will automatically be generated. Parts may be substituted as long as they meet the minimum tolerances and footprint dimensions. 
 
 To match blue and green PCBs, the BOM contains options for green and blue terminal blocks and LEDs. The value of resistor R8 will have to change depending on the choice of LED color. 
 
