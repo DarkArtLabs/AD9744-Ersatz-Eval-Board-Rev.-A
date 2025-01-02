@@ -7,6 +7,5 @@ This guide is broken into two parts, the first is a guide on assemblying and sol
 > [!IMPORTANT]
 > Hand assembly of this board is not reccomended for those new to SMD soldering. This guide assumes the user knows how to solder and has the proper equipment to proceed.
 
-> [!TIP]
-> Magnification will make soldering and inspecting easier.
+  1. Solder in U1, verify pin 1 is up and to the left
 
