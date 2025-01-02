@@ -16,6 +16,8 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - BOM options for both blue and green hardware
 
 # What is Included
+This project includes everything needed to make an ersatz evaluation board. 
+
 ## Schematic
 A PDF of the schematic is included in Documents. It defines all electrical connections, component values, and components tolerances. DNP signifies that no part is to be placed.
 
