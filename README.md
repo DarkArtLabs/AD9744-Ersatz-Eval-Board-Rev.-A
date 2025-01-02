@@ -13,7 +13,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - 50 Ohm output impedance
   - Test points on DAC output before balun
   - Mounting holes for M2 hardware or standoffs
-  - BOM options for both blue and green hardware
+  - BOM options for both blue and green components
 
 # What is Included
 This project includes everything needed to make an ersatz evaluation board. 
@@ -28,6 +28,16 @@ To match blue and green PCBs, the BOM contains options for green and blue termin
 
 ## Gerbers, Drill File, Drill Map
 A set gerbers, a drill file, and a drill map are included in the Gerbers directory. The files have been generated according to the specifications that JLCPCB requires, but they will likely work at other fabrictors such as PCBWay or OSHPARK. These files may be compressed into a ZIP file and uploaded to the PCB fabricator of your choice.
+
+## Assembly Instructions
+An assembly guide is included in the Documents directory. 
+
+# Performance (TBD)
+  - Power consumption
+  - VSWR
+  - Pout
+  - Fmax
+  - Output spectrum
 
 # Changes From Rev. -
 The following changes from Rev. - have been implemented.
