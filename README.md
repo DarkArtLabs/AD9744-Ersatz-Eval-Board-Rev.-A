@@ -15,6 +15,13 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - Mounting holes for M2 hardware or standoffs
   - BOM options for both blue and green hardware
 
+# What is Included
+## Schematic
+A PDF of the schematic is included in Documents. It defines all electrical connections, component values, and components tolerances. DNP signifies that no part is to be placed.
+
+## Bill of Materials (BOM)
+A BOM is in included in Documents. It contains manufacturer part numbers and quantites for every component. It also contains Mouser part numbers for easy cross reference. The BOM may be uploaded to the Mouser website and a shopping cart with correct quantities will automatically be generated. 
+
 # Changes From Rev. -
 The following changes from Rev. - have been implemented.
   - The position of D0 on header J2 has moved
