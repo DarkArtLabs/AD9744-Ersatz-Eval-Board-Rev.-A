@@ -7,7 +7,7 @@ This project is a low-cost evaluation board for the Analog Devices [AD9744](http
 The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on standard 2-layer FR4 by any PCB fabricator. All components sit on the top of the board and the design is hand-solderable. 
 
 # Features
-  - Power board through pin header, terminal block, or separately power analog and digital sections
+  - Power the board through pin header, terminal block, or separately power analog and digital sections
   - 2's complement or unsigned binary DAC word selectable using jumper
   - External clock input
   - 50 Ohm output impedance
