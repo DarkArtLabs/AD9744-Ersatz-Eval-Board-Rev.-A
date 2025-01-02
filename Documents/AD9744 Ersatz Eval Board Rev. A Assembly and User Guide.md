@@ -34,6 +34,10 @@ The general assembly process will be to install the DAC, next the small passives
 
   11. Solder in C14 (100u) and TR1
 
+  >[!TIP]
+  > TR1 is upside down with respect to the orientation of the other parts. Pin 1 is toward the bottom right corner of the board.
+  > Trim the legs of TR1 to fit the pads before soldering.
+
   12. Solder in TP1, TP2, TP3, and TP4
 
   13. Solder in J1 (2x9 pin header), JP1 (3 pin), J4 (terminal block), and JP3 (2 pin)
