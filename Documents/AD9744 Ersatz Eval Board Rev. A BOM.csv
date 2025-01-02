@@ -6,7 +6,7 @@
 5,1,JP3,Adam Tech,PH1-02-UA,737-PH1-02-UA,Pin Header; 2.54mm pitch; 1x2; Male,,Thru-Hole,Top,
 6,2,"J2, J3",Amphenol,901-144,523-901-144,SMA Connector; Female; Vertical; 5.08 pitch,,Thru-Hole,Top,
 7a,1,J4,Keystone,8738,534-8738,2 Pos Terminal Block; Screw Type; 5.08mm pitch; Blue,,Thru-Hole,Top,For blue PCB
-7b,,J4,Phoenix Contact,1729128,651-1729128,2 Pos Terminal Block; Screw Type; 5.08mm pitch; Green,,Thru-Hole,Top,"Alt, For green PCB"
+7b,0,J4,Phoenix Contact,1729128,651-1729128,2 Pos Terminal Block; Screw Type; 5.08mm pitch; Green,,Thru-Hole,Top,"Alt, For green PCB"
 8,1,D1,Wurth,150224BS73100,710-150224BS73100,Blue LED,0805,SMT,Top,
 9,2,"FB1, FB2",Murata,BLM18KN601EH1D,81-BLM18KN601EH1D,Ferrite Bead,0603,SMT,Top,
 10,1,C14,Wurth,865080545012,710-865080545012,Electrolytic Capacitor; 100uF; 35VDC,6.3mm,SMT,Top,
