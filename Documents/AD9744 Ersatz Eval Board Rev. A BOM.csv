@@ -1,21 +1,30 @@
 ﻿Item #,Qty,Ref Des,Manufacturer,Manufacturer Part Number,Mouser Part Number,Description,Package,Type,Location,Note
-1,1,U1,Analog Devices,AD9744ARUZRL7,584-AD9744ARUZR7 ,14 Bit DAC; 210 MSPS,TSSOP-28,SMT,Top,
-2,1,TR1,Mini Circuits,T1-6T+,139-T1-6T+,Balun; 1:1,W38,SMT,Top,Must trim legs
-3,1,J1,Adam Tech,PH2-18-UA,737-PH2-18-UA,Pin Header; 2.54mm pitch; 2x9; Male,,Thru-Hole,Top,
-4,1,JP1,Adam Tech,PH1-03-UA,737-PH1-03-UA,Pin Header; 2.54mm pitch; 1x3; Male,,Thru-Hole,Top,
-5,1,JP3,Adam Tech,PH1-02-UA,737-PH1-02-UA,Pin Header; 2.54mm pitch; 1x2; Male,,Thru-Hole,Top,
-6,2,"J2, J3",Amphenol,901-144,523-901-144,SMA Connector; Female; Vertical; 5.08 pitch,,Thru-Hole,Top,
-7a,1,J4,Keystone,8738,534-8738,2 Pos Terminal Block; Screw Type; 5.08mm pitch; Blue,,Thru-Hole,Top,For blue PCB
-7b,0,J4,Phoenix Contact,1729128,651-1729128,2 Pos Terminal Block; Screw Type; 5.08mm pitch; Green,,Thru-Hole,Top,"Alt, For green PCB"
-8,1,D1,Wurth,150224BS73100,710-150224BS73100,Blue LED,0805,SMT,Top,
-9,2,"FB1, FB2",Murata,BLM18KN601EH1D,81-BLM18KN601EH1D,Ferrite Bead,0603,SMT,Top,
-10,1,C14,Wurth,865080545012,710-865080545012,Electrolytic Capacitor; 100uF; 35VDC,6.3mm,SMT,Top,
-11,2,"C7, C10",Kyocera,0603YD106MAT2A,581-0603YD106MAT2A,MLCC 10uF; 16VDC; X5R,0603,SMT,Top,
-12,2,"C6, C8",Murata,GRM188R61E106KA73J,81-GRM188R61E106KA3J,MLCC 10uF; 25VDC; X5R,0603,SMT,Top,
-13,7,"C1, C4, C5, C9, C11, C12, C13",Kyocera,KAM15AR71C104KM,581-KAM15AR71C104KM,MLCC; 0.1uF; 16VDC; X7R,0603,SMT,Top,
-14,4,"R1, R2, R6",Yageo,AT0603DRD0749R9L,603-AT0603DRD0749R9L,50 Ohm; 1%,0603,SMT,Top,
-15,1,R5,Panasonic,ERA-3AED202V ,667-ERA-3AED202V,2k Ohm; 1%,0603,SMT,Top,
-16,1,R4,Vishay,CRCW060310K0FKEI,71-CRCW060310K0FKEI,10k Ohm; 5%,0603,SMT,Top,
-17,1,R8,Vishay,CRCW060313R0JNEA,71-CRCW0603J-13-E3,13 Ohm; 5%,0603,SMT,Top,
-18,3,"TP1, TP2, TP4",Keystone,5002,534-5002,Mini Loop Test Point; White,,Thru-Hole,Top,
-19,1,TP3,Keystone,5001,534-5001,Mini Loop Test Point; Black,,Thru-Hole,Top,
+1,1,U1,Analog Devices,AD9744ARUZRL7 ,584-AD9744ARUZR7 ,14 Bit DAC; 210 MSPS,TSSOP-28,SMT,Top,
+2,1,TR1,Mini Circuits,T1-6T+,139-T1-6T+ ,Balun; 1:1,W38,SMT,Top,Must trim legs
+3,1,J1,Adam Tech,PH2-18-UA ,737-PH2-18-UA ,Pin Header; 2.54mm pitch; 2x9; Male,,Thru-Hole,Top,
+4,1,JP1,Adam Tech,PH1-03-UA ,737-PH1-03-UA ,Pin Header; 2.54mm pitch; 1x3; Male,,Thru-Hole,Top,
+5,1,JP3,Adam Tech,PH1-02-UA ,737-PH1-02-UA ,Pin Header; 2.54mm pitch; 1x2; Male,,Thru-Hole,Top,
+6,2,"J2, J3",Amphenol,901-144 ,523-901-144 ,SMA Connector; Female; Vertical; 5.08 pitch,,Thru-Hole,Top,
+7a,1,J4,Keystone,8738,534-8738 ,2 Pos Terminal Block; Screw Type; 5.08mm pitch; Blue,,Thru-Hole,Top,For blue PCB
+7b,0,J4 (Alt),Phoenix Contact,1729128,651-1729128 ,2 Pos Terminal Block; Screw Type; 5.08mm pitch; Green,,Thru-Hole,Top,"Alt, for green PCB"
+8a,1,D1,Wurth,150224BS73100 ,710-150224BS73100 ,Blue LED,0805,SMT,Top,For blue PCB
+8b,0,D1 (Alt),Kingbright,AP2012SGD3 ,604-AP2012SGD3 ,Green LED,0805,SMT,Top,"Alt, for green PCB"
+9,2,"FB1, FB2",Murata,BLM18KN601EH1D ,81-BLM18KN601EH1D ,Ferrite Bead,0603,SMT,Top,
+10,1,C14,Wurth,865080545012,710-865080545012 ,Electrolytic Capacitor; 100uF; 35VDC,6.3mm,SMT,Top,
+11,2,"C7, C10",Kyocera,0603YD106MAT2A ,581-0603YD106MAT2A ,MLCC 10uF; 16VDC; X5R,0603,SMT,Top,
+12,2,"C6, C8",Murata,GRM188R61E106KA73J ,81-GRM188R61E106KA3J ,MLCC 10uF; 25VDC; X5R,0603,SMT,Top,
+13,7,"C1, C4, C5, C9, C11, C12, C13",Kyocera,KAM15AR71C104KM ,581-KAM15AR71C104KM ,MLCC; 0.1uF; 16VDC; X7R,0603,SMT,Top,
+14,3,"R1, R2, R6, R8 (Alt)",Yageo,AT0603DRD0749R9L ,603-AT0603DRD0749R9L ,50 Ohm; 1%,0603,SMT,Top,"Alt, for green LED & PCB"
+15,1,R5,Panasonic,ERA-3AED202V ,667-ERA-3AED202V ,2k Ohm; 1%,0603,SMT,Top,
+16,1,R4,Vishay,CRCW060310K0FKEI ,71-CRCW060310K0FKEI ,10k Ohm; 5%,0603,SMT,Top,
+17,1,R8,Vishay,CRCW060313R0JNEA ,71-CRCW0603J-13-E3 ,13 Ohm; 5%,0603,SMT,Top,For blue LED & PCB
+18,3,"TP1, TP2, TP4",Keystone,5002,534-5002 ,Mini Loop Test Point; White,,Thru-Hole,Top,
+19,1,TP3,Keystone,5001,534-5001 ,Mini Loop Test Point; Black,,Thru-Hole,Top,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
