@@ -8,11 +8,12 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
 
 # Changes From Rev. -
 The following changes from Rev. - have been implemented.
-  - The position of D0 on pin header J2 has moved
+  - The position of D0 on header J2 has moved
   - DVDD now supplied by controlling device through 3.3V pin on header J2
   - Pin header & jumper included to power AVDD from DVDD
-  - Board size increase to 48mm by 48mm
+  - Board size increased to 48mm by 48mm
   - Trace from balun TR1 to Vout port J4 has been widened to approx. 55 Ohms
   - Position of external clock port J3 changed and terminating resistor R1 moved closer to J3
   - Updated BOM to include blue terminal block option for use with blue PCB
   - Minor changes to trace routing
+  - Minor changes to skilscreen
