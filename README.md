@@ -13,7 +13,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - 50 Ohm output impedance
   - Test points on DAC output before balun
   - Mounting holes for M2 hardware or standoffs
-  - BOM options for both blue and green components to match blue and green soldermask
+  - BOM options for blue and green components to match blue or green soldermask
 
 # What is Included
 This project includes everything needed to make the ersatz evaluation board. 
