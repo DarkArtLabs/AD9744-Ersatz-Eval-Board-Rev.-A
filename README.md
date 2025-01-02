@@ -14,3 +14,5 @@ The following changes from Rev. - have been implemented.
   - Board size increase to 48mm by 48mm
   - Trace from balun TR1 to Vout port J4 has been widened to approx. 55 Ohms
   - Position of external clock port J3 changed and terminating resistor R1 moved closer to J3
+  - Updated BOM to include blue terminal block option for use with blue PCB
+  - Minor changes to trace routing
