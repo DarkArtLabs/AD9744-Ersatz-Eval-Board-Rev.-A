@@ -29,7 +29,7 @@ To match blue and green PCBs, the BOM contains options for green and blue termin
 ## Gerbers, Drill File, Drill Map
 A set gerbers, a drill file, and a drill map are included in the Gerbers directory. The files have been generated according to the specifications that JLCPCB requires, but they will likely work at other fabricators such as PCBWay or OSHPARK. These files may be compressed into a ZIP file and uploaded to the PCB fabricator of your choice.
 
-## Assembly & User Guide (TBD)
+## User Guide (TBD)
 A combined assembly and user guide is included in the Documents directory. 
 
 # Performance (TBD)
