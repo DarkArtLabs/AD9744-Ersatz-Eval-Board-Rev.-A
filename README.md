@@ -8,7 +8,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
 
 # Features
   - Power board through pin header, or separately power analog section through terminal block
-  - 2's complement or unisigned binary DAC word selectable using jumpper
+  - 2's complement or unisigned binary DAC word selectable using jumper
   - External clock input
   - 50 Ohm output impedance
   - Mounting holes for M2 hardware or standoffs
