@@ -23,8 +23,8 @@ The general assembly process will be to install the DAC, next the small passives
 
   7. Solder in R1 (50)
 
-     >[!TIP]
-     > Soldering R1 directly to the center and ground pins of J2 on the back of the board will provide a better termination.
+  >[!TIP]
+  > Soldering R1 directly to the center and ground pins of J2 on the back of the board will provide a better termination.
 
   8. Solder in D1 (LED) with the cathode pointing up toward the terminal block
 
