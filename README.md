@@ -8,7 +8,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
 
 # Changes From Rev. -
 The following changes from Rev. - have been implemented.
-  - The position of pin D0 on pin header J2 has moved
+  - The position of D0 on pin header J2 has moved
   - DVDD now supplied by controlling device through 3.3V pin on header J2
   - Pin header & jumper included to power AVDD from DVDD
   - Board size increase to 48mm by 48mm
