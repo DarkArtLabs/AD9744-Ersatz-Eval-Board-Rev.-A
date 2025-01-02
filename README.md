@@ -4,7 +4,7 @@ This project is a low-cost evaluation board for the Analog Devices [AD9744](http
 ![Layout](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/Layout.png)
 
   The ersatz evaluation board is a low-cost alternative to the evaluation board produced by Analog Devices which retails for approximately $500. The full BOM cost for this project including components, the board itself, tax, and shipping is about $100. 
-The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on standard 2-layer FR4 by any low-cost PCB fabricator. All components sit on the top of the board and the design is hand-solderable. 
+The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on standard 2-layer FR4 by any PCB fabricator. All components sit on the top of the board and the design is hand-solderable. 
 
 # Features
   - Power board through pin header, terminal block, or separately power analog and digital sections
