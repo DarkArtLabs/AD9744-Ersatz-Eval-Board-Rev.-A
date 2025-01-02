@@ -24,7 +24,7 @@ A PDF of the schematic is included in Documents. It defines all electrical conne
 ## Bill of Materials (BOM)
 A BOM is included in Documents. It contains manufacturer part numbers and quantities for every component. It also contains Mouser part numbers for easy cross reference. The BOM may be uploaded to the Mouser website and a shopping cart with correct quantities will automatically be generated. Parts may be substituted as long as they meet the minimum tolerances and footprint dimensions. 
 
-To match blue and green PCBs, the BOM contains options for green and blue terminal blocks and LEDs. The value of resistor R8 will have to change depending on the choice of LED color.
+To match blue and green PCBs, the BOM contains options for green and blue terminal blocks and LEDs. The value of resistor R8 will also change depending on the choice of LED color.
 
 ## Gerbers, Drill File, Drill Map
 A set gerbers, a drill file, and a drill map are included in the Gerbers directory. The files have been generated according to the specifications that JLCPCB requires, but they will likely work at other fabricators such as PCBWay or OSHPARK. These files may be compressed into a ZIP file and uploaded to the PCB fabricator of your choice.
