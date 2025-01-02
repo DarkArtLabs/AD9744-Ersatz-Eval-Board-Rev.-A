@@ -1,13 +1,13 @@
 # Assembly & User Guide
 
-This guide is broken into two parts, the first is a guide on assemblying and soldering the board together. The second part describes how to use the AD9744 ersatz eval board.
+This guide is broken into two parts, the first is a guide on assembling and soldering the board together. The second part describes how to use the AD9744 ersatz eval board.
 
 ## Assembly Guide
 
 > [!IMPORTANT]
-> Hand assembly of this board is not reccomended for those new to SMD soldering. This guide assumes the user knows how to solder and has the proper equipment to proceed.
+> Hand assembly of this board is not recommended for those new to SMD soldering. This guide assumes the user knows how to solder and has the proper equipment to proceed.
 
-The general assembly process will be to install the DAC, next the small passives and LED, then the large SMD parts, and finally the through-holer parts.
+The general assembly process will be to install the DAC, next the small passives and LED, then the large SMD parts, and finally the through-hole parts.
 
   1. Solder in U1 (AD9744), verify pin 1 is up and to the left
 
