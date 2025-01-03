@@ -8,7 +8,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
 
 # Features
   - Power the board through pin header, terminal block, or separately power analog and digital sections
-  - 2's complement or unsigned binary DAC word is selectable using a jumper
+  - Select 2's complement or unsigned binary DAC word using a jumper
   - External clock input
   - 50 Ohm output impedance
   - Test points on DAC output before balun
