@@ -24,7 +24,7 @@ Analog output of the DAC. It is impedance matched to 50 Ohms.
 
 ## J4 - Terminal Block
 
-3.3V input to the analog section.
+The 3.3V input to the analog section.
 
 # Jumpers
 
