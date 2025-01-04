@@ -22,6 +22,10 @@ J2 is an optional external clock input to the DAC. The port accepts a CMOS-level
 
 J3 is the analog output of the DAC. It is impedance matched to 50 Ohms. 
 
+## J4 - Terminal Block
+
+J4 is the 3.3V input to the analog section.
+
 # Jumpers
 
 ## JP1 - DAC Word Format
