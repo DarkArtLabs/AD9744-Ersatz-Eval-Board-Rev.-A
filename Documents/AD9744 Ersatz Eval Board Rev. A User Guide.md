@@ -52,7 +52,7 @@ Test point is on DAC differential output IoutB (inverting output) immedaitely be
 
 ## TP3 - Ground
 
-Test point is connected to ground. Serves as a place which to clip a probe's ground lead.
+Test point is connected to ground.
 
 ## TP4 - CLK
 
