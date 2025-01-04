@@ -18,6 +18,8 @@ Header JP1 allows the selection of either 2's complement or unsigned binary DAC 
 
 Solder jumper JP2 located on the rear of the board allows for the use of the external clock port J2. Close this jumper to enable the port.
 
+Leaving this jumper open if supplying a clock through pin header J1. 
+
 ## JP3 - Analog and Digital Voltage Rail Selection
 
 Placing a jumper on this header ties AVDD and DVDD together. This allows the user to power the ersatz eval board through the 3.3V pin on J1. Alternately, the 3.3V pin may be disconnected and the board powed through the terminal block. 
