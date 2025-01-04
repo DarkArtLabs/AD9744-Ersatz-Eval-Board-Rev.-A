@@ -14,6 +14,10 @@ The erstaz eval board is able to be soldered by hand. The footprints of many com
 
 Header JP1 allows the selection of either 2's complement or unsigned binary DAC words to be written to the AD9744. Place a jumper on the right two pins to select unsigned binary and the left two pins to select 2's compelement. 
 
+## JP2 - External Clock Enable
+
+Solder jumper JP2 located on the rear of the board allows for the use of the external clock port J2. Close this jumper to enable the port.
+
 ## JP3 - Analog and Digital Voltage Rail Selection
 
 Placing a jumper on this header ties AVDD and DVDD together. This allows the user to power the ersatz eval board through the 3.3V pin on J1. Alternately, the 3.3V pin may be disconnected and the board powed through the terminal block. 
