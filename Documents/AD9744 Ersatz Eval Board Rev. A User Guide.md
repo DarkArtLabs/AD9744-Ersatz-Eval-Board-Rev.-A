@@ -48,11 +48,11 @@ Removing the jumper on JP3 allows for the digital section to be powered through 
 
 ## TP1 - Iout+
 
-Test point is on DAC differential output IoutA (non-inverting output) immediately before the balun. This allows for DC voltages and slow signals (f<15kHz) to be measured as they will not pass through the balun. This test point should measure full scale output for a full scale DAC word (0x3FFF). 
+Test point is on DAC differential output IoutA (non-inverting output) immediately before the balun. This allows for DC voltages and slow signals (f<15kHz) to be measured as they will not pass through the balun. This test point should measure full scale output for a full-scale DAC word (0x3FFF). 
 
 ## TP2 - Iout-
 
-Test point is on DAC differential output IoutB (inverting output) immediately before the balun. This allows for DC voltages and slow signals (f<15kHz) to be measured as they will not pass through the balun. This test point should measure full scale output for a min scale DAC word (0x0000). 
+Test point is on DAC differential output IoutB (inverting output) immediately before the balun. This allows for DC voltages and slow signals (f<15kHz) to be measured as they will not pass through the balun. This test point should measure full scale output for a min-scale DAC word (0x0000). 
 
 ## TP3 - Ground
 
