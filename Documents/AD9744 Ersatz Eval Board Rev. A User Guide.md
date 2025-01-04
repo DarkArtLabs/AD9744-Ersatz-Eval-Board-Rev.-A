@@ -1,12 +1,12 @@
 # Assembly
 
-The erstaz eval board is able to be soldered by hand. The footprints of many components have been extended to make the soldering process easier. It is reccomended to follow the general guidelines below when soldering components to the board.
+The erstaz eval board is able to be soldered by hand. The footprints of many components have been extended to make the soldering process easier. It is recommended to follow the general guidelines below when soldering components to the board.
 
   - Place and solder U1 (AD9744)
   - Place and solder all 0603 and 0805 size components (resistors, capacitors, LED)
   - Place and solder C14 (100uF)
-  - Place and solder all through-hole components (pin headers, termianal block, test points, SMA connectors)
-  - Attach standoffs or mounting hardware (optional)
+  - Place and solder all through-hole components (pin headers, terminal block, test points, SMA connectors)
+  - Attach standoffs or mounting hardware (optional, recommended)
 
 # Interfaces
 
@@ -30,7 +30,7 @@ The 3.3V input to the analog section.
 
 ## JP1 - DAC Word Format
 
-Allows the selection of either 2's complement or unsigned binary DAC words to be written to the AD9744. Place a jumper on the right two pins to select unsigned binary and the left two pins to select 2's compelement. 
+Allows the selection of either 2's complement or unsigned binary DAC words to be written to the AD9744. Place a jumper on the right two pins to select unsigned binary and the left two pins to select 2's complement. 
 
 ## JP2 - External Clock Enable
 
@@ -48,11 +48,11 @@ Removing the jumper on JP3 allows for the digital section to be powered through 
 
 ## TP1 - Iout+
 
-Test point is on DAC differential output IoutA (non-inverting output) immedaitely before the balun. This allows for DC voltages and slow signals (f<15kHz) to be measured as they will not pass through the balun. This test point should measure full scale output for a full scale DAC word (0x3FFF). 
+Test point is on DAC differential output IoutA (non-inverting output) immediately before the balun. This allows for DC voltages and slow signals (f<15kHz) to be measured as they will not pass through the balun. This test point should measure full scale output for a full scale DAC word (0x3FFF). 
 
 ## TP2 - Iout-
 
-Test point is on DAC differential output IoutB (inverting output) immedaitely before the balun. This allows for DC voltages and slow signals (f<15kHz) to be measured as they will not pass through the balun. This test point should measure full scale output for a min scale DAC word (0x0000). 
+Test point is on DAC differential output IoutB (inverting output) immediately before the balun. This allows for DC voltages and slow signals (f<15kHz) to be measured as they will not pass through the balun. This test point should measure full scale output for a min scale DAC word (0x0000). 
 
 ## TP3 - Ground
 
