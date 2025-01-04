@@ -8,6 +8,20 @@ The erstaz eval board is able to be soldered by hand. The footprints of many com
   - Place and solder all through-hole components (pin headers, termianal block, test points, SMA connectors)
   - Attach standoffs or mounting hardware (optional)
 
+# Interfaces
+
+## J1
+
+J1 is the digital input to the DAC. The CLK pin is the default clock input. The 3.3V pin supplies the digital section. 
+
+## J2
+
+J2 is an optional external clock input to the DAC. The port accepts a CMOS-level signal. JP2 must be closed to use this port.
+
+## J3
+
+J3 is the analog output of the DAC. It is impedance matched to 50 Ohms. 
+
 # Setup
 
 ## JP1 - DAC Word Format
