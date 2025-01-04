@@ -4,7 +4,6 @@ The ersatz eval board is able to be soldered by hand. The footprints of many com
 
   - Place and solder U1 (AD9744)
     - Orient pin 1 up and to the left (toward the terminal block)
-      
   - Place and solder all 0603 and 0805 size components (resistors, capacitors, LED) (LED cathode pointing up toward terminal block)
   - Place and solder C14 (100uF)
   - Place and solder TR1 (T1-6T+) with pin 1 oriented down and to the right (toward TP3)
