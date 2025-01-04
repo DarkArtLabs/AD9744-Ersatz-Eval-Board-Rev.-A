@@ -30,11 +30,11 @@ The 3.3V input to the analog section.
 
 ## JP1 - DAC Word Format
 
-Header JP1 allows the selection of either 2's complement or unsigned binary DAC words to be written to the AD9744. Place a jumper on the right two pins to select unsigned binary and the left two pins to select 2's compelement. 
+Allows the selection of either 2's complement or unsigned binary DAC words to be written to the AD9744. Place a jumper on the right two pins to select unsigned binary and the left two pins to select 2's compelement. 
 
 ## JP2 - External Clock Enable
 
-Solder jumper JP2 located on the rear of the board allows for the use of the external clock port J2. Close this jumper to enable the port.
+Allows for the use of the external clock port J2. Close this jumper to enable the port. Located on rear of the board.
 
 Leaving this jumper open if supplying a clock through pin header J1. 
 
