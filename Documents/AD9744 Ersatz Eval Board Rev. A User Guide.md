@@ -1,6 +1,6 @@
 # Assembly
 
-The erstaz eval board is able to be soldered by hand. The footprints of many components have been extended to make the soldering process easier. It is recommended to follow the general guidelines below when soldering components to the board.
+The ersatz eval board is able to be soldered by hand. The footprints of many components have been extended to make the soldering process easier. It is recommended to follow the general guidelines below when soldering components to the board.
 
   - Place and solder U1 (AD9744)
   - Place and solder all 0603 and 0805 size components (resistors, capacitors, LED)
@@ -40,7 +40,7 @@ Leaving this jumper open if supplying a clock through pin header J1.
 
 ## JP3 - Analog and Digital Voltage Rail Selection
 
-Placing a jumper on this header ties AVDD and DVDD together. This allows the user to power the ersatz eval board through the 3.3V pin on J1. Alternately, the 3.3V pin may be disconnected and the board powed through the terminal block. 
+Placing a jumper on this header ties AVDD and DVDD together. This allows the user to power the ersatz eval board through the 3.3V pin on J1. Alternately, the 3.3V pin may be disconnected and the board powered through the terminal block. 
 
 Removing the jumper on JP3 allows for the digital section to be powered through the 3.3V pin on header J1 and the analog section to be powered through the terminal block. 
 
