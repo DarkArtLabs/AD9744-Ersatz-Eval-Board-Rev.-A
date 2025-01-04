@@ -1,6 +1,4 @@
-# User Guide
-
-## Assembly
+# Assembly
 
 The erstaz eval board is able to be soldered by hand. The footprints of many components have been extended to make the soldering process easier. It is reccomended to follow the general guidelines below when soldering components to the board.
 
@@ -10,3 +8,14 @@ The erstaz eval board is able to be soldered by hand. The footprints of many com
   - Place and solder all through-hole components (pin headers, termianal block, test points, SMA connectors)
   - Attach standoffs or mounting hardware (optional)
 
+# Setup
+
+## JP1 - DAC Word Format
+
+Header JP1 allows the selection of either 2's complement or unsigned binary DAC words to be written to the AD9744. Place a jumper on the right two pins to select unsigned binary and the left two pins to select 2's compelement. 
+
+## JP3 - Analog and Digital Voltage Rail Selection
+
+Placing a jumper on this header ties AVDD and DVDD together. This allows the user to power the ersatz eval board through the 3.3V pin on J1. Alternately, the 3.3V pin may be disconnected and the board powed through the terminal block. 
+
+Removing the jumper on JP3 allows for the digital section to be powered through the 3.3V pin on header J1 and the analog section to be powered through the terminal block. 
