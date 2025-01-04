@@ -16,7 +16,7 @@ The ersatz eval board is able to be soldered by hand. The footprints of many com
     
   - Place and solder all through-hole components (pin headers, terminal block, test points, SMA connectors)
   
-  - Attach standoffs or mounting hardware (optional, recommended)
+  - Attach M2 standoffs or mounting hardware (optional, recommended)
 
 # Interfaces
 
