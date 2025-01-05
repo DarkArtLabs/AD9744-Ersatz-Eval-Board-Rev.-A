@@ -31,7 +31,7 @@ To match blue and green PCBs, the BOM contains options for green and blue termin
 ## Gerbers, Drill File, Drill Map
 A set gerbers, a drill file, and a drill map are included in the Gerbers directory. The files have been generated according to the specifications that JLCPCB requires, but they will likely work at other fabricators such as PCBWay or OSHPARK.
 
-![AD9744 Ersatz Eval Board Rev. A Gerbers.zip](Gerbers/AD9744 Ersatz Eval Board Rev. A Gerbers.zip)
+[AD9744 Ersatz Eval Board Rev. A Gerbers.zip](Gerbers/AD9744 Ersatz Eval Board Rev. A Gerbers.zip)
 
 ## User Guide
 The ![AD9744 Ersatz Eval Board Rev. A User Guide](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Documents/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%20User%20Guide.md) contains information on board assembly, setting options with jumpers, and a detailed description of the board. 
