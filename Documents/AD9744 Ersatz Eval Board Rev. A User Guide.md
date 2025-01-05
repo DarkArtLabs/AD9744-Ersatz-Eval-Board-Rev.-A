@@ -20,6 +20,8 @@ The ersatz eval board is able to be soldered by hand. The footprints of many com
 
 # Interfaces
 
+![Interface Diagram](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/User%20Guide%20Resources/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%20Interfaces.png)
+
 ## J1 - 2x9 Digital Input
 
 Digital input to the DAC. The CLK pin is the default clock input. The 3.3V pin supplies the digital section. 
@@ -37,6 +39,9 @@ Analog output of the DAC. It is impedance matched to 50 Ohms.
 The 3.3V input to the analog section.
 
 # Jumpers
+
+![Jumper Diagram Front](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/User%20Guide%20Resources/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%20Jumpers%20Front.png)
+![Jumper Diagram Back](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/User%20Guide%20Resources/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%20Jumpers%20Back.png)
 
 ## JP1 - DAC Word Format
 
