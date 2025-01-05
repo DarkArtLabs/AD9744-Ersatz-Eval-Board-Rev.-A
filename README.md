@@ -1,5 +1,5 @@
 # AD9744 Ersatz Eval Board
-This project is a low-cost evaluation board for the Analog Devices [AD9744]([https://www.analog.com/media/en/technical-documentation/data-sheets/AD9744.pdf](https://www.analog.com/en/products/ad9744.html) 14-bit DAC.
+This project is a low-cost evaluation board for the Analog Devices [AD9744](https://www.analog.com/en/products/ad9744.html) 14-bit DAC.
 
 ![Layout](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%20Front.png)
 
