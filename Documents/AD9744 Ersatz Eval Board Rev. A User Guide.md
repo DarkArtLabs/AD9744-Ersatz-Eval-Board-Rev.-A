@@ -34,7 +34,7 @@ Optional external clock input to the DAC. The port accepts a CMOS-level signal. 
 
 Analog output of the DAC. It is impedance matched to 50 Ohms. 
 
-## J4 - Terminal Block
+## J4 - 3.3V AVDD Terminal Block
 
 The 3.3V input to the analog section.
 
