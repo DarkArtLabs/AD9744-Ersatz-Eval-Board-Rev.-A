@@ -41,7 +41,7 @@ These files have been generated according to the specifications that JLCPCB requ
 ## ![User Guide](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.User.Guide.pdf)
 The user guide may also be viewed above in the Documents directory. It contains information on assembly, I/O ports, and jumper options.
 
-# Performance (TBD)
+# Performance (TBD, ETA 1FEB25)
   - Power consumption
   - VSWR
   - Pout
