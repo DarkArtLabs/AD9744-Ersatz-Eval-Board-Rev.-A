@@ -52,11 +52,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "lib_footprint_mismatch|151300000|109975000|e24ff366-f2ea-4c82-a496-84b235c5980f|00000000-0000-0000-0000-000000000000",
-        "silk_overlap|128281009|99310000|73b24aab-9975-4fba-835a-99e6a1e042a9|ed643f73-3537-4d21-8b87-b994ff44d726",
-        "silk_overlap|128605000|99466666|73b24aab-9975-4fba-835a-99e6a1e042a9|0a4f2da9-1b51-4ea4-8a78-1d911f38ad0d"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
