@@ -20,7 +20,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
 # What is Included
 Downloads are available below for those who wish to make their own ersatz eval board. Included are schematic, BOM, gerbers, and user guide.
 
-The KiCAD project is also available for those who wish to modify the design. 
+The KiCAD project is also available to fork for those who wish to modify the design. 
 
 # Downloads
 Current Release: Rev. A0
