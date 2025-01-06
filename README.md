@@ -18,26 +18,27 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - BOM options for blue and green components to match blue or green soldermask
 
 # What is Included
-A set of downloads is included below for those who simply wish to make their own ersatz eval board. Included is a PDF schematic, BOM, gerbers, and user guide.
+Downloads are available below for those who wish to make their own ersatz eval board. Included are schematic, BOM, gerbers, and user guide.
 
-The KiCAD project is also available for those who wish to modify the design. 
+The KiCAD project is also available to fork for those who wish to modify the design. 
 
-# Downloads 
+# Downloads
+Current Release: Rev. A0
 
-## ![Schematic Rev. A0](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
+## ![Schematic](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
 The schematic may also be viewed above in the Documents directory.
 
-## ![Bill of Materials (BOM) Rev. A0](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.BOM.csv)
+## ![Bill of Materials](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.BOM.csv)
 The BOM may also be viewed above in the Documents directory. It contains manufacturer part numbers and quantities for every component. It also contains Mouser part numbers for easy cross reference. The BOM may be uploaded to the Mouser website and a shopping cart with correct quantities will automatically be generated. Parts may be substituted as long as they meet the minimum tolerances and footprint dimensions. 
 
 To match blue and green PCBs, the BOM contains options for green and blue terminal blocks on lines 7a and 7b, respectively. Only one terminal block is needed for this project. 
 
 To open this file with Excel, it is recommended to import the CSV data. Simply opening the file with Excel will cause formatting errors. 
 
-## ![Gerbers, Drill File, Drill Map Rev. A0](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Gerbers.zip)
+## ![Gerbers, Drill File, Drill Map](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Gerbers.zip)
 These files have been generated according to the specifications that JLCPCB requires, but they will likely work at other fabricators such as PCBWay or OSHPARK.
 
-## ![User Guide Rev. A0](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.User.Guide.pdf)
+## ![User Guide](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.User.Guide.pdf)
 The user guide may also be viewed above in the Documents directory. It contains information on assembly, I/O ports, and jumper options.
 
 # Performance (TBD)
