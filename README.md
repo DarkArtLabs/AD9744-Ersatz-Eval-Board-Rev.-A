@@ -25,6 +25,7 @@ The KiCAD project is also available for those who wish to modify the design.
 # Downloads 
 
 ## ![Schematic Rev. A0](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
+The schematic may also be viewed above in the Documents directory.
 
 ## ![Bill of Materials (BOM) Rev. A0](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.BOM.csv)
 The BOM may also be viewed above in the Documents directory. It contains manufacturer part numbers and quantities for every component. It also contains Mouser part numbers for easy cross reference. The BOM may be uploaded to the Mouser website and a shopping cart with correct quantities will automatically be generated. Parts may be substituted as long as they meet the minimum tolerances and footprint dimensions. 
@@ -36,8 +37,8 @@ To open this file with Excel, it is recommended to import the CSV data. Simply o
 ## ![Gerbers, Drill File, Drill Map Rev. A0](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Gerbers.zip)
 These files have been generated according to the specifications that JLCPCB requires, but they will likely work at other fabricators such as PCBWay or OSHPARK.
 
-## User Guide
-The ![AD9744 Ersatz Eval Board Rev. A User Guide](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Documents/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%20User%20Guide.md) contains information on board assembly, setting options with jumpers, and a detailed description of the board. 
+## ![User Guide Rev. A0](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.User.Guide.pdf)
+The user guide may also be viewed above in the Documents directory. It contains information on assembly, I/O ports, and jumper options.
 
 # Performance (TBD)
   - Power consumption
