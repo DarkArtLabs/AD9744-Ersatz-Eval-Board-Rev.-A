@@ -24,7 +24,7 @@ The KiCAD project is also available for those who wish to modify the design.
 
 # Downloads 
 
-## Schematic
+## ![Schematic](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
 A ![PDF of the schematic](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
 
 ## Bill of Materials (BOM)
