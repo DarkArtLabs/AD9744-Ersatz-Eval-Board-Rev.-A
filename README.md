@@ -22,7 +22,8 @@ A set of downloads is included below for those who simply wish to make their own
 
 The KiCAD project is also available for those who wish to modify the design. 
 
-# Downloads 
+# Downloads
+Current Release: Rev. A0
 
 ## ![Schematic](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
 The schematic may also be viewed above in the Documents directory.
