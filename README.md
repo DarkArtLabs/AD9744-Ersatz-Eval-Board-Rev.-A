@@ -1,5 +1,5 @@
 # AD9744 Ersatz Eval Board
-This project is a low-cost evaluation board for the Analog Devices [AD9744](https://www.analog.com/en/products/ad9744.html) 14-bit DAC.
+This is a low-cost evaluation board for the Analog Devices [AD9744](https://www.analog.com/en/products/ad9744.html) 14-bit DAC.
 
 ![3D Render Front](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%20RT%20Render%202.png)
 
@@ -18,7 +18,11 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - BOM options for blue and green components to match blue or green soldermask
 
 # What is Included
-This project includes everything needed to make the ersatz evaluation board. 
+A set of downloads is included below for those who simply wish to make their own ersatz eval board. Included is a PDF schematic, BOM, gerbers, and user guide.
+
+The KiCAD design files for this project are included here and may used by those who wish to modify the design of the ersatz eval board. 
+
+# Downloads 
 
 ## Schematic
 A ![PDF of the schematic](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Documents/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%20Schematic.pdf) is included in Documents. It defines all electrical connections, component values, and component tolerances. DNP signifies that no part is to be placed.
