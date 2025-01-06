@@ -18,7 +18,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - BOM options for blue and green components to match blue or green soldermask
 
 # What is Included
-Downloads are available below for those who wish to make their own ersatz eval board. Included is a PDF schematic, BOM, gerbers, and user guide.
+Downloads are available below for those who wish to make their own ersatz eval board. Included are a schematic, BOM, gerbers, and user guide.
 
 The KiCAD project is also available for those who wish to modify the design. 
 
