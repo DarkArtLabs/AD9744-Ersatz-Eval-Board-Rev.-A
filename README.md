@@ -29,9 +29,9 @@ The KiCAD project is also available for those who wish to modify the design.
 ## ![Bill of Materials (BOM) Rev. A0](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.BOM.csv)
 The BOM may also be viewed above in the Documents directory. It contains manufacturer part numbers and quantities for every component. It also contains Mouser part numbers for easy cross reference. The BOM may be uploaded to the Mouser website and a shopping cart with correct quantities will automatically be generated. Parts may be substituted as long as they meet the minimum tolerances and footprint dimensions. 
 
-To open this file with Excel, it is recommended to import the CSV data. Simply opening the file with Excel will cause formatting errors. 
+To match blue and green PCBs, the BOM contains options for green and blue terminal blocks on lines 7a and 7b, respectively. Only one terminal block is needed for this project. 
 
-To match blue and green PCBs, the BOM contains options for green and blue terminal blocks.
+To open this file with Excel, it is recommended to import the CSV data. Simply opening the file with Excel will cause formatting errors. 
 
 ## Gerbers, Drill File, Drill Map
 A set gerbers, a drill file, and a drill map are included in the Gerbers directory. The files have been generated according to the specifications that JLCPCB requires, but they will likely work at other fabricators such as PCBWay or OSHPARK.
