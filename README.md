@@ -18,7 +18,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - BOM options for blue and green components to match blue or green soldermask
 
 # What is Included
-Downloads are available below for those who simply wish to make their own ersatz eval board. Included is a PDF schematic, BOM, gerbers, and user guide.
+Downloads are available below for those who wish to make their own ersatz eval board. Included is a PDF schematic, BOM, gerbers, and user guide.
 
 The KiCAD project is also available for those who wish to modify the design. 
 
@@ -33,7 +33,7 @@ The BOM may also be viewed above in the Documents directory. It contains manufac
 
 To match blue and green PCBs, the BOM contains options for green and blue terminal blocks on lines 7a and 7b, respectively. Only one terminal block is needed for this project. 
 
-To open this file with Excel, it is recommended to import the CSV data. Opening the file with Excel will cause formatting errors. 
+To open this file with Excel, it is recommended to import the CSV data. Simply opening the file with Excel will cause formatting errors. 
 
 ## ![Gerbers, Drill File, Drill Map](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Gerbers.zip)
 These files have been generated according to the specifications that JLCPCB requires, but they will likely work at other fabricators such as PCBWay or OSHPARK.
