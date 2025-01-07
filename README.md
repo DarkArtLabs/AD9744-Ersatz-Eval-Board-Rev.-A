@@ -44,7 +44,6 @@ The user guide may also be viewed above in the Documents directory. It contains 
   - Output spectrum
 
 # Downloads
-Current Release: Rev. A0
 
 Schematic: ![AD9744 Ersatz Eval Board Rev. A Schematic.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
 
