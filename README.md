@@ -46,6 +46,10 @@ The user guide may also be viewed above in the Documents directory. It contains 
 # Downloads
 Current Release: Rev. A0
 Schematic: ![AD9744 Ersatz Eval Board Rev. A Schematic.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
+
 Gerbers: ![AD9744 Ersatz Eval Board Rev. A Gerbers.zip](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Gerbers.zip)
+
 BOM: ![AD9744 Ersatz Eval Board Rev. A BOM.csv](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.BOM.csv)
+
 User Guide: ![AD9744 Ersatz Eval Board Rev. A User Guide.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.User.Guide.pdf)
+
