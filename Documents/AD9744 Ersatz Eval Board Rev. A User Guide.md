@@ -51,7 +51,7 @@ Allows the selection of either 2's complement or unsigned binary DAC words to be
 
 Allows for the use of the external clock port J2. Close this jumper to enable the port. Located on rear of the board.
 
-Leaving this jumper open if supplying a clock through pin header J1. 
+Leave this jumper open if supplying a clock through pin header J1. 
 
 ## JP3 - Analog and Digital Voltage Rail Selection
 
