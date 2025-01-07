@@ -6886,7 +6886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "16V, X5R"
+		(property "Description" "16V, X7R"
 			(at 78.994 67.31 0)
 			(effects
 				(font
@@ -7122,7 +7122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "16V, X5R"
+		(property "Description" "16V, X7R"
 			(at 78.994 44.196 0)
 			(effects
 				(font
