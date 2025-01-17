@@ -40,7 +40,13 @@ The user guide may also be viewed above in the Documents directory. It contains 
 
 ## Power Consumption
 
-For both AVDD and DVDD rails $ V_{in} = 3.295  [V]
+For both AVDD and DVDD rails 
+
+$`V_{in} = 3.295 [V]`$
+
+$`I_{in} = 65 [mA]`$
+
+$`P_{cons} = 214.2 [mW]`$
 
 ## VSWR
 
