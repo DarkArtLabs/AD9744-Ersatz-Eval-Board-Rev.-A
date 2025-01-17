@@ -42,7 +42,7 @@ The user guide may also be viewed above in the Documents directory. It contains 
 
 For both AVDD and DVDD rails 
 
-$`V_{in} = 3.295 \\ [V]`$
+$`V_{in} = 3.295 \quad [V]`$
 
 $`I_{in} = 65 \\ [mA]`$
 
