@@ -42,7 +42,7 @@ The user guide may also be viewed above in the Documents directory. It contains 
 
 For both AVDD and DVDD rails 
 
-<p align="center">$`V_{in} = 3.295  [V]`$
+<p align="center"> $` V_{in} = 3.295  [V] `$
 
 ## VSWR
 
