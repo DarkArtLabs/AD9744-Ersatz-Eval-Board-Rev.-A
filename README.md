@@ -40,7 +40,7 @@ The user guide may also be viewed above in the Documents directory. It contains 
 
 ## Power Consumption
 
-For AVDD and DVDD rails tied together. Device active an generating waveform.
+For AVDD and DVDD rails tied together. Device active and generating waveform.
 
 $`V_{in} = 3.295 \; [V]`$
 
