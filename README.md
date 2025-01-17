@@ -52,6 +52,9 @@ Vout S11 Log Magnitude: 10 MHz - 100 MHz (with markers every 10 MHz)
   
 ## Output Power
 
+0 dBm Single Tone: 13.12 MHz
+![Single 13.12 MHz tone](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%2013.12MHz%20tone.png)
+
 0 dBm Single Tone: 26.25 MHz
 ![Single 26.25 MHz tone](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744_%20Ersatz%20Eval%20Board%20Rev.%20A%2026.25MHz%20tone.png)
 
