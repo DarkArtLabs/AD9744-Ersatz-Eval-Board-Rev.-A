@@ -15,10 +15,9 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - 50 Ohm output impedance
   - Test points on DAC output before balun
   - Mounting holes for M2 hardware or standoffs
-  - BOM options for blue and green components to match blue or green soldermask
 
 # What is Included
-Downloads are available below for those who wish to make their own ersatz eval board. The KiCAD project file are also available for those who wish to modify the design. 
+Downloads are available below for those who wish to make their own ersatz eval board. The KiCAD project files are also available for those who wish to modify the design. 
 
 ## Schematic
 The schematic may also be viewed above in the Documents directory.
@@ -36,35 +35,41 @@ These files have been generated according to the specifications that JLCPCB requ
 ## User Guide
 The user guide may also be viewed above in the Documents directory. It contains information on assembly, I/O ports, and jumper options.
 
-# Performance (TBD)
-  - Power consumption
+# Performance
+
+## Power Consumption
+
+For AVDD and DVDD rails tied together. Device active and generating waveform at 210 MSPS.
+
+$`V_{in} = 3.295 \; [V]`$
+
+$`I_{in} = 65 \; [mA]`$
+
+$`P_{cons} = 214.2 \; [mW]`$
 
 ## VSWR
 
 Vout S11 Smith Chart: 10 MHz - 100 MHz 
 ![S11 Smith No Markers](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744_ErsatzEval_RevA_SN1_Rdiff%3D100_Vout_2to1Balun_62Ohms_SmithNoMarkers_9JAN25.png)
 
-Vout S11 Smaith Chart: 10 MHz - 100 MHz (with markers every 10 MHz)
+Vout S11 Smith Chart: 10 MHz - 100 MHz (markers every 10 MHz)
 ![S11 Smith Markers](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744_ErsatzEval_RevA_SN1_Rdiff%3D100_Vout_2to1Balun_62Ohms_SmithMarkers_9JAN25.png)
 
-Vout S11 Log Magnitude: 10 MHz - 100 MHz (with markers every 10 MHz)
+Vout S11 Log Magnitude: 10 MHz - 100 MHz (markers every 10 MHz)
 ![S11 Log Magnitude Markers](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744_ErsatzEval_RevA_SN1_Rdiff%3D100_Vout_2to1Balun_62Ohms_LogMag_9JAN25a.png)
   
 ## Output Power
 
-0 dBm Single Tone: 26.25 MHz
-![Single 26.25 MHz tone](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744_%20Ersatz%20Eval%20Board%20Rev.%20A%2026.25MHz%20tone.png)
-
-  - Fmax
-  - Output spectrum
+0 dBm Single Tone: 26.25 MHz (210 MSPS)
+![Single 26.25 MHz tone](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%2026.25MHz%20tone.png)
 
 # Downloads
 
-Schematic: ![AD9744 Ersatz Eval Board Rev. A Schematic.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
+Schematic: ![AD9744 Ersatz Eval Board Rev. A Schematic.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A1/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
 
-Gerbers: ![AD9744 Ersatz Eval Board Rev. A Gerbers.zip](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Gerbers.zip)
+Gerbers: ![AD9744 Ersatz Eval Board Rev. A Gerbers.zip](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A1/AD9744.Ersatz.Eval.Board.Rev.A.Gerbers.zip)
 
-BOM: ![AD9744 Ersatz Eval Board Rev. A BOM.csv](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.BOM.csv)
+BOM: ![AD9744 Ersatz Eval Board Rev. A BOM.csv](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A1/AD9744.Ersatz.Eval.Board.Rev.A.BOM.csv)
 
-User Guide: ![AD9744 Ersatz Eval Board Rev. A User Guide.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.User.Guide.pdf)
+User Guide: ![AD9744 Ersatz Eval Board Rev. A User Guide.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A1/AD9744.Ersatz.Eval.Board.Rev.A.User.Guide.pdf)
 
