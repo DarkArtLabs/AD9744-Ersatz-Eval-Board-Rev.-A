@@ -40,7 +40,7 @@ The user guide may also be viewed above in the Documents directory. It contains 
 
 ## Power Consumption
 
-For AVDD and DVDD rails tied together. Device active and generating waveform.
+For AVDD and DVDD rails tied together. Device active and generating waveform at 210 MSPS.
 
 $`V_{in} = 3.295 \; [V]`$
 
@@ -61,7 +61,7 @@ Vout S11 Log Magnitude: 10 MHz - 100 MHz (with markers every 10 MHz)
   
 ## Output Power
 
-0 dBm Single Tone: 26.25 MHz
+0 dBm Single Tone: 26.25 MHz (210 MSPS)
 ![Single 26.25 MHz tone](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744%20Ersatz%20Eval%20Board%20Rev.%20A%2026.25MHz%20tone.png)
 
 # Downloads
