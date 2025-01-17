@@ -6193,7 +6193,7 @@
 		(path "/67e46e07-b052-4693-a8ca-4312d343e900")
 		(sheetname "Root")
 		(sheetfile "AD9744 Ersatz Eval Board Rev. A.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.254724 0.5225)
 			(end 0.254724 0.5225)
