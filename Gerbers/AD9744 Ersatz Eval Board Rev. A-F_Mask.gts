@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*
-G04 #@! TF.CreationDate,2025-01-05T01:43:09-07:00*
+G04 #@! TF.CreationDate,2025-01-16T21:26:41-07:00*
 G04 #@! TF.ProjectId,AD9744 Ersatz Eval Board Rev. A,41443937-3434-4204-9572-7361747a2045,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.6) date 2025-01-05 01:43:09*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2025-01-16 21:26:41*
 %MOMM*%
 %LPD*%
 G01*

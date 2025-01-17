@@ -703,7 +703,7 @@
 				)
 			)
 		)
-		(property "Value" "50"
+		(property "Value" "62"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1273,7 +1273,7 @@
 				)
 			)
 		)
-		(property "Value" "50"
+		(property "Value" "62"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2048,7 +2048,7 @@
 		(path "/833f9662-a6ea-439b-9f40-1599552777a7")
 		(sheetname "Root")
 		(sheetfile "AD9744 Ersatz Eval Board Rev. A.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.146267 0.51)
 			(end 0.146267 0.51)
@@ -2262,7 +2262,7 @@
 		(path "/97a5f448-a256-4308-a42f-747a45d81eae")
 		(sheetname "Root")
 		(sheetfile "AD9744 Ersatz Eval Board Rev. A.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
 			(end 0.254724 0.5225)
@@ -4235,7 +4235,7 @@
 				)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "2.37k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4273,7 +4273,7 @@
 				)
 			)
 		)
-		(property "Description" "1%"
+		(property "Description" "0.5%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4282,6 +4282,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temp Stability" "25 PPM/C"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1012da6-125b-43da-b6a8-1274a0c9d67c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5525,7 +5538,7 @@
 		(path "/29634bc4-bc6b-4015-b2ce-804b35fc6e85")
 		(sheetname "Root")
 		(sheetfile "AD9744 Ersatz Eval Board Rev. A.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.146267 -0.51)
 			(end 0.146267 -0.51)
@@ -5722,7 +5735,7 @@
 				)
 			)
 		)
-		(property "Description" "16V, X5R"
+		(property "Description" "16V, X7R"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6193,7 +6206,7 @@
 		(path "/67e46e07-b052-4693-a8ca-4312d343e900")
 		(sheetname "Root")
 		(sheetfile "AD9744 Ersatz Eval Board Rev. A.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
 			(end 0.254724 0.5225)
@@ -6630,7 +6643,7 @@
 				)
 			)
 		)
-		(property "Description" "16V, X5R"
+		(property "Description" "16V, X7R"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9521,7 +9534,7 @@
 				)
 			)
 		)
-		(property "Value" "T1-6T+"
+		(property "Value" "T2-1T+"
 			(at 3.81 7.41 0)
 			(layer "F.Fab")
 			(hide yes)
