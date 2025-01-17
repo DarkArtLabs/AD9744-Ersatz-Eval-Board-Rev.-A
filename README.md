@@ -25,8 +25,6 @@ The schematic may also be viewed above in the Documents directory.
 ## Bill of Materials
 The BOM may also be viewed above in the Documents directory. It contains manufacturer part numbers and quantities for every component. It also contains Mouser part numbers for easy cross reference. The BOM may be uploaded to the Mouser website and a shopping cart with correct quantities will automatically be generated. Parts may be substituted as long as they meet the minimum tolerances and footprint dimensions. 
 
-To match blue and green PCBs, the BOM contains options for green and blue terminal blocks on lines 7a and 7b, respectively. Only one terminal block is needed for this project. 
-
 To open this file with Excel, it is recommended to import the CSV data. Simply opening the file with Excel will cause formatting errors. 
 
 ## Gerbers, Drill File, Drill Map
