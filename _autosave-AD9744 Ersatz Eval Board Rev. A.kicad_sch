@@ -4947,7 +4947,7 @@
 	)
 	(text_box "Vout=IoutFS*Rload\n0.99[V]=16E-3[A]*62[Ohm]\nMake R5=2.4k to set IoutFS=16mA\nand bring swing to 1Vp-p nom"
 		(exclude_from_sim no)
-		(at 153.67 -3.81 0)
+		(at 170.18 34.29 0)
 		(size 36.83 10.16)
 		(stroke
 			(width 0)
