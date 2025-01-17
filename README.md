@@ -42,15 +42,11 @@ The user guide may also be viewed above in the Documents directory. It contains 
 
 For AVDD and DVDD rails tied together. Device active and generating waveform at 210 MSPS.
 
-\begin{align*}
-
 $`V_{in} = 3.295 \; [V]`$
 
 $`I_{in} = 65 \; [mA]`$
 
 $`P_{cons} = 214.2 \; [mW]`$
-
-\end{align*}
 
 ## VSWR
 
