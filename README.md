@@ -40,7 +40,7 @@ The user guide may also be viewed above in the Documents directory. It contains 
 
 ## Power Consumption
 
-For both AVDD and DVDD rails 
+Measurement conditions for both AVDD and DVDD rails
 
 $`V_{in} = 3.295 \; [V]`$
 
