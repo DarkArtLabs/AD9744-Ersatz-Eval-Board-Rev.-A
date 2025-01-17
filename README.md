@@ -50,7 +50,11 @@ Vout S11 Smaith Chart: 10 MHz - 100 MHz (with markers every 10 MHz)
 Vout S11 Log Magnitude: 10 MHz - 100 MHz (with markers every 10 MHz)
 ![S11 Log Magnitude Markers](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744_ErsatzEval_RevA_SN1_Rdiff%3D100_Vout_2to1Balun_62Ohms_LogMag_9JAN25a.png)
   
-  - Pout
+## Output Power
+
+0 dBm Single Tone: 26.25 MHz
+![Single 26.25 MHz tone](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744_%20Ersatz%20Eval%20Board%20Rev.%20A%2026.25MHz%20tone.png)
+
   - Fmax
   - Output spectrum
 
