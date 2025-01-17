@@ -36,8 +36,11 @@ These files have been generated according to the specifications that JLCPCB requ
 ## User Guide
 The user guide may also be viewed above in the Documents directory. It contains information on assembly, I/O ports, and jumper options.
 
-# Performance (TBD)
-  - Power consumption
+# Performance
+
+## Power Consumption
+
+For both AVDD and DVDD rails $`V_in = 3.295 [V]`$
 
 ## VSWR
 
