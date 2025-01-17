@@ -53,7 +53,7 @@ $`P_{cons} = 214.2 \; [mW]`$
 Vout S11 Smith Chart: 10 MHz - 100 MHz 
 ![S11 Smith No Markers](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744_ErsatzEval_RevA_SN1_Rdiff%3D100_Vout_2to1Balun_62Ohms_SmithNoMarkers_9JAN25.png)
 
-Vout S11 Smaith Chart: 10 MHz - 100 MHz (with markers every 10 MHz)
+Vout S11 Smith Chart: 10 MHz - 100 MHz (with markers every 10 MHz)
 ![S11 Smith Markers](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744_ErsatzEval_RevA_SN1_Rdiff%3D100_Vout_2to1Balun_62Ohms_SmithMarkers_9JAN25.png)
 
 Vout S11 Log Magnitude: 10 MHz - 100 MHz (with markers every 10 MHz)
