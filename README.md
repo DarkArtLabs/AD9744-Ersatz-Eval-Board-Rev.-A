@@ -66,11 +66,11 @@ Vout S11 Log Magnitude: 10 MHz - 100 MHz (markers every 10 MHz)
 
 # Downloads
 
-Schematic: ![AD9744 Ersatz Eval Board Rev. A Schematic.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
+Schematic: ![AD9744 Ersatz Eval Board Rev. A Schematic.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A1/AD9744.Ersatz.Eval.Board.Rev.A.Schematic.pdf)
 
-Gerbers: ![AD9744 Ersatz Eval Board Rev. A Gerbers.zip](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.Gerbers.zip)
+Gerbers: ![AD9744 Ersatz Eval Board Rev. A Gerbers.zip](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A1/AD9744.Ersatz.Eval.Board.Rev.A.Gerbers.zip)
 
-BOM: ![AD9744 Ersatz Eval Board Rev. A BOM.csv](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.BOM.csv)
+BOM: ![AD9744 Ersatz Eval Board Rev. A BOM.csv](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A1/AD9744.Ersatz.Eval.Board.Rev.A.BOM.csv)
 
-User Guide: ![AD9744 Ersatz Eval Board Rev. A User Guide.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A0/AD9744.Ersatz.Eval.Board.Rev.A.User.Guide.pdf)
+User Guide: ![AD9744 Ersatz Eval Board Rev. A User Guide.pdf](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/releases/download/A1/AD9744.Ersatz.Eval.Board.Rev.A.User.Guide.pdf)
 
