@@ -41,7 +41,7 @@ For AVDD and DVDD rails tied together. Device active and generating waveform at 
 
 $$ V_{DD} = 3.3 \ \ [V] $$
 
-$$ I_{in} = 65 \ \ [mA] $$
+$$ I_{VDD} = 65 \ \ [mA] $$
 
 $$ P_{cons} = 215 \ \ [mW] $$
 
