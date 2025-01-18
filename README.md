@@ -39,6 +39,7 @@ The user guide may also be viewed above in the Documents directory. It contains 
 
 For AVDD and DVDD rails tied together. Test conditions: $` f_{out} = 26.25 \ [MHz] `$ , $` f_{clk} = 210 \ [MHz] `$
 
+
 $$ V_{DD} = 3.3 \ \ [V] $$
 
 $$ I_{DD} = 65 \ \ [mA] $$
