@@ -47,7 +47,7 @@ $$ I_{DD} = 65 \ \ [mA] $$
 
 $$ P_{cons} = 215 \ \ [mW] $$
 
-## S11/Return Loss
+## S-Parameters & Return Loss
 
 Vout S11 Smith Chart: 10 MHz - 100 MHz 
 ![S11 Smith No Markers](https://github.com/DarkArtLabs/AD9744-Ersatz-Eval-Board-Rev.-A/blob/main/Pictures/AD9744_ErsatzEval_RevA_SN1_Rdiff%3D100_Vout_2to1Balun_62Ohms_SmithNoMarkers_9JAN25.png)
