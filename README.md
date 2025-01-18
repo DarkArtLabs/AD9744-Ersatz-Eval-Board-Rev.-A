@@ -16,7 +16,7 @@ The area of the PCB is 23 cm<sup>2</sup> and it is designed to be built on stand
   - Test points on DAC output before balun
   - Mounting holes for M2 hardware or standoffs
 
-# What is Included
+# What's Included
 Downloads are available below for those who wish to make their own ersatz eval board. The KiCAD project files are also available for those who wish to modify the design. 
 
 ## Schematic
